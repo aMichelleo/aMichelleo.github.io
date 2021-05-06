@@ -1,0 +1,45 @@
+F9C80E dehydtrated yellow
+F49390 corally bubblegum pink
+662E9B royal purple
+43BCCD frosting blue 
+1BE7FF every little girls fav light blue
+FFD6C0 baby pink
+ 9888A5 grapey lilac
+
+Antonio (looks like got milk font
+	<head>
+	<link rel="preconnect" href="https://fonts.gstatic.com">
+<link href="https://fonts.googleapis.com/css2?family=Antonio:wght@500&display=swap" rel="stylesheet">)
+<link rel="preconnect" href="https://fonts.gstatic.com">
+<link href="https://fonts.googleapis.com/css2?family=Antonio:wght@100&family=Playfair+Display:ital@1&display=swap" rel="stylesheet">
+roboto condensed (headings)>
+<link rel="preconnect" href="https://fonts.gstatic.com">
+<link href="https://fonts.googleapis.com/css2?family=ABeeZee&family=Antonio:wght@100&family=Playfair+Display:ital@1&display=swap" rel="stylesheet">
+<link rel="preconnect" href="https://fonts.gstatic.com">
+<link href="https://fonts.googleapis.com/css2?family=ABeeZee&family=Antonio:wght@100&family=Playfair+Display:ital@1&family=Roboto+Mono:wght@100&display=swap" rel="stylesheet">
+</head>
+
+
+p{font-family: 'Playfair Display', serif;}
+h2{
+	color:pink;
+	font-family: 'ABeeZee', sans-serif;
+}
+h1, h3{
+	color: pink;
+}
+h1, h3{
+ font-family: 'Antonio', sans-serif; 
+
+}
+p{font-family: 'Roboto Mono', monospace;}
+a:hover {
+	color: #FFD6C0;
+}
+
+.bg-color {background: #FFD6C0;
+}
+img {
+	border: 5px solid #FFD6C0;
+	border-radius: 10%;
+}
